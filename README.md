@@ -12,6 +12,7 @@ The script will prompt for a character name then output a random race, class, an
 # Planned Features:
   Save Characters -- Give the user the ability to save a character to reference later. Could be exported to a text file.     
   Subclass        -- Once class is generated, also randomly select a subclass.       
+  Traits          -- Randomly select character traits based on background selected.     
   Equipment       -- Detail the equipment the character receives based on their class. Allow user selections where appropriate.     
   GUI             -- Grant the user a more accessible user interface.
   
