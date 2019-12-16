@@ -6,7 +6,7 @@ The script will prompt for a character name then output a random race, class, an
 # Functionality:
   Ability Roller -- Rolls 4d6 and removes lowest value. Provides 6 numbers to be assigned to ability scores.        
   Race           -- Randomly selects a race based from the core races in the Player's Handbook.        
-  Class          -- Randomly selects a class based from the core classes in the Player's Handbook.
+  Class          -- Randomly selects a class based from the core classes in the Player's Handbook.     
   Background     -- Randomly selects a background based from the backgrounds in the Player's Handbook.
   
 # Planned Features:
